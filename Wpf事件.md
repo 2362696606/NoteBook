@@ -1,6 +1,6 @@
 # 使用事件
 * Nuget添加[Microsoft.Xaml.Behaviors.Wpf](https://github.com/Microsoft/XamlBehaviorsWpf)包
-* xaml文件中添加***xmlns:i="http://schemas.microsoft.com/xaml/behaviors"***命名控件
+* xaml文件中添加 ___xmlns:i="http://schemas.microsoft.com/xaml/behaviors"___ 命名空间
 * 使用事件
 * 示例代码
 
