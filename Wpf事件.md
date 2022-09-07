@@ -1,3 +1,18 @@
+# 使用事件
+* Nuget添加[Microsoft.Xaml.Behaviors.Wpf](https://github.com/Microsoft/XamlBehaviorsWpf)包
+* xaml文件中添加***xmlns:i="http://schemas.microsoft.com/xaml/behaviors"***命名控件
+* 使用事件
+* 示例代码
+
+```xaml
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded">
+            <i:InvokeCommandAction Command="{Binding LoadCompletedCommand}" />
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+```
+
+# 常用事件
 |  事件                                                   |  描述                                                                                                                                |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 |  Annotation.AnchorChanged                             |  新增、移除或修改 Anchor 元素时发生。                                                                                                            |
