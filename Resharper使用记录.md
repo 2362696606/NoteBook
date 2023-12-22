@@ -25,6 +25,26 @@
 23. 查找文件内成员：<kbd>Alt</kbd>+<kbd>\\</kbd>
 24. 查找方法：<kbd>Shift</kbd>+<kbd>F12</kbd>
 25. 查找方法（高级）：<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Alt</kbd>+<kbd>F12</kbd>
+26. 查看结果在窗口中实现：<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F12</kbd>
+27. 方法名在文件中高亮显示：<kbd>Shift</kbd>+<kbd>Alt</kbd>+<kbd>F11</kbd>
+28. 前一个方法：<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>↑</kbd>
+29. 后一个方法吧：<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>↓</kbd>
+30. 导航到：<kbd>Alt</kbd>+<kbd>`</kbd>
+31. 定位到声明位置：<kbd>F12</kbd>
+32. 定位到基类：<kbd>Alt</kbd>+<kbd>Home</kbd>
+33. 定位到派生类：<kbd>Alt</kbd>+<kbd>End</kbd>
+34. 定位到实现：<kbd>Ctrl</kbd>+<kbd>F12</kbd>
+35. 查看引用位置：<kbd>Shift</kbd>+<kbd>Alt</kbd>+<kbd>F12</kbd>
+36. 重构：<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>
+37. 重命名：<kbd>Ctrl</kbd>+<kbd>R</kbd>+<kbd>R</kbd>
+38. 移动类或静态成员：<kbd>Ctrl</kbd>+<kbd>R</kbd>+<kbd>O</kbd>
+39. 安全删除：<kbd>Ctrl</kbd>+<kbd>R</kbd>+<kbd>D</kbd> or <kbd>Alt</kbd>+<kbd>Del</kbd>
+40. 提取方法：<kbd>Ctrl</kbd>+<kbd>R</kbd>+<kbd>M</kbd>
+41. 引入变量：<kbd>Ctrl</kbd>+<kbd>R</kbd>+<kbd>V</kbd>
+42. 查看文件组成（类、函数）：<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F</kbd>
+43. 定位到下一个成员：<kbd>Alt</kbd>+<kbd>↓</kbd>
+44. 定位到上一个成员：<kbd>Alt</kbd>+<kbd>↑</kbd>
+45. 定位到包含声明位置：<kbd>Ctrl</kbd>+<kbd>[</kbd>
 
 # 2. 网上找的截图
 ![网上找的截图][网上找的表格截图]
